@@ -10,7 +10,7 @@
 .wave-header {
   @apply bg-primary;
   position: relative;
-  height: 75vh;
+  height: 73vh;
   width: 100%;
   z-index: 0;
 }
